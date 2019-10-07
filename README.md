@@ -22,7 +22,7 @@ Our [installation documentation](https://mozilla-pontoon.readthedocs.io/) is ava
 
 ## Contributing
 
-You want to help us make Pontoon better? We are very glad!
+You want to help us make Pontoon better? We are very glad !
 
 Start by [installing Pontoon locally using Docker](https://mozilla-pontoon.readthedocs.io/en/latest/dev/setup.html). Once you have a working local environment, take a look at our [mentored bugs](https://wiki.mozilla.org/Webdev/GetInvolved/pontoon.mozilla.org). It is often better to start with those bugs, as they tend to be easier, and someone is committed to helping you get it done. To start working on a bug, verify that it isn't already assigned to someone else, and then ask on the bug for it to be assigned to you.
 
@@ -44,5 +44,5 @@ If you want to go further, you can:
 ## License
 
 This software is licensed under the
-[New BSD License](http://creativecommons.org/licenses/BSD/). For more
-information, read [LICENSE](https://github.com/mozilla/pontoon/blob/master/LICENSE).
+[New BSD License](http://creativecommons.org/licenses/BSD/).
+For more information, read [LICENSE](https://github.com/mozilla/pontoon/blob/master/LICENSE).
